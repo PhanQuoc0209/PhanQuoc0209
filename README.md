@@ -32,9 +32,9 @@ I am currently focusing on Full-stack Development, learning how to build practic
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/PhanQuoc0209/PhanQuoc0209/output/github-snake.svg"
+  src="https://raw.githubusercontent.com/PhanQuoc0209/phanvanquoc/output/github-snake.svg"
   width="100%"
-  alt="Snake animation"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
