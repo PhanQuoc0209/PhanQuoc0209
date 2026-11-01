@@ -29,3 +29,12 @@
 I am a Software Engineering student with a strong interest in technology and software development. I enjoy exploring new technologies, improving my programming skills, and building projects to turn ideas into real-world applications.
 I am currently focusing on Full-stack Development, learning how to build practical applications and improve my problem-solving skills. I believe that every project is an opportunity to learn, grow, and become a better developer.
 
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/PhanQuoc0209/PhanQuoc0209/output/github-snake.svg"
+  width="100%"
+  alt="Snake animation"
+/>
+
+</div>
